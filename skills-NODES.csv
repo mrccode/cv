@@ -1,0 +1,31 @@
+id,skill,skill.type,skill.name,comfortability
+s01,Pivotal HD,1,Data,50
+s02,Hortonworks HDP,1,Data,60
+s03,Spark,1,Data,70
+s04,Apache HDP (HAWQ),1,Data,70
+s05,HBase,1,Data,40
+s06,Hive,1,Data,40
+s07,Kafka,1,Data,30
+s08,Ranger,1,Data,40
+s09,Knox,1,Data,60
+s10,Zookeeper,1,Data,30
+s11,Yarn,1,Data,70
+s12,Talend,2,ETL,50
+s13,Informatica,2,ETL,30
+s14,NiFi,2,ETL,30
+s15,EMC Isilon,3,Infrastructure,60
+s16,RHEL,4,OS,80
+s17,Puppet,5,Config Management,60
+s18,Python,6,Software Language,60
+s19,Scala,6,Software Language,50
+s20,R,6,Software Language,60
+s21,C#,6,Software Language,60
+s22,Java,6,Software Language,70
+s23,bash,6,Software Language,70
+s24,VMware ESX,3,Infrastructure,50
+s25,Citrix XenServer,3,Infrastructure,60
+s26,Xitrix XenDesktop,3,Infrastructure,80
+s27,Micorosft AppV,3,Infrastructure,50
+s28,Windows Server,4,OS,50
+s29,Active Directory,3,Infrastructure,60
+s30,Kerberos,3,Infrastructure,40
